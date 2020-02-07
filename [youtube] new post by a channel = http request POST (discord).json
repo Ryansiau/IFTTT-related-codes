@@ -1,0 +1,20 @@
+{
+  "username"      : "Youtube Guy",
+  "avatar_url"    : "https://live.staticflickr.com/5301/5693118049_ee43e9f85f_q_d.jpg",
+  "embeds"        :
+  [{
+    "author"      :
+    {
+      "name"      : "<<<{{AuthorName}}>>>",
+      "icon_url"  : "https://yt3.ggpht.com/a/AGF-l7_BSi49SEhBYR1DSvBOKxEi9neo-upfzqogwg=s176-c-k-c0x00ffffff-no-rj-mo"
+    },
+    "title"       : "<<<{{Title}}>>>",
+    "description" : "<<<{{Description}}>>>\n<<<{{EmbedCode}}>>>",
+    "url"         : "<<<{{Url}}>>>",
+
+    "footer"      :
+    {
+      "text"      : "Uploaded at <<<{{CreatedAt}}>>>"
+    }
+  }]
+}

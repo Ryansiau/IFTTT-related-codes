@@ -1,0 +1,24 @@
+{
+  "username"      : "RedditCord",
+  "avatar_url"    : "https://www.mcleodgaming.com/wp-content/uploads/2019/05/reddit_logo-150x150.png",
+  "embeds"        :
+  [{
+    "title"       : "<<<{{Title}}>>>",
+    "color"       : 11540260,
+    "url"         : "<<<{{PostURL}}>>>",
+    "author"      :
+    {
+      "name"      : "/r/Kaguya_sama",
+      "icon_url"  : "https://styles.redditmedia.com/t5_3ihr1/styles/communityIcon_mgpvfvmuwib41.jpg?format=pjpg&s=dae3f507cf2ba94036170e1fe51c638603f03fd8"
+    },
+    "description" : "<<<{{Content}}>>>",
+    "image"       :
+    {
+      "url"       : "<<<{{Content}}>>>"
+    },
+    "footer"      :
+    {
+      "text"      : "Post by: /u/<<<{{Author}}>>>\nat <<<{{PostedAt}}>>>"
+    }
+  }]
+}
